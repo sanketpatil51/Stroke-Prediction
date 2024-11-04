@@ -1,4 +1,5 @@
 # Stroke-Prediction
+<img align="right" alt="milling machine" width="300" src="" >
 ## Introduction
 This dataset project focuses on predicting the likelihood of stroke occurrence based on various health metrics and demographic information. Stroke is a significant cause of disability and mortality worldwide, making early prediction crucial for preventive healthcare. The dataset includes attributes such as age, gender, average glucose level, and body mass index, alongside stroke occurrence as the target variable.
 
