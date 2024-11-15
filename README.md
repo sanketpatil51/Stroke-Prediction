@@ -45,12 +45,12 @@ In the stroke dataset, there are missing values in the bmi column. Initially, I 
 # trasformation
 In the stroke dataset, the avg_glucose_level column exhibited an imbalanced distribution. To address this, I applied the QuantileTransformer, which maps the data to a uniform or normal distribution. This transformation helps in reducing the skewness of the data while maintaining its relative order, improving its suitability for modeling.
 
-<img align="center" alt="Stroke" width="500" src="https://github.com/sanketpatil51/Stroke-Prediction/blob/main/stroke.jpg" >
+<img align="center" alt="Stroke" width="700" src="https://github.com/sanketpatil51/Stroke-Prediction/blob/main/ts.jpeg" >
 
 # Inbalance in data set
 The stroke dataset is imbalanced, as shown in the figure below. This means that one class significantly outnumbers the other, which can negatively impact the performance of machine learning models by biasing them towards the majority class. To address this issue, we applied the SMOTE (Synthetic Minority Over-sampling Technique) method during model building. SMOTE generates synthetic samples for the minority class to balance the dataset, improving model performance and ensuring better generalization.
 
-<img align="center" alt="Stroke" width="500" src="https://github.com/sanketpatil51/Stroke-Prediction/blob/main/stroke.jpg" >
+<img align="center" alt="Stroke" width="900" src="https://github.com/sanketpatil51/Stroke-Prediction/blob/main/matrix.png" >
 
 
 
