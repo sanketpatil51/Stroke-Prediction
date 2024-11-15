@@ -7,7 +7,7 @@ This dataset project focuses on predicting the likelihood of stroke occurrence b
 In this analysis, special attention is given to handling class imbalance, as well as detecting and managing outliers in the avg_glucose_level feature. The goal of the project is to build a robust predictive model that can accurately distinguish between individuals at high and low risk of stroke, aiding in early intervention strategies and efficient healthcare management.
 
 ## Dataset Description
-<img align="center" alt="Stroke" width="500" src="https://github.com/sanketpatil51/Stroke-Prediction/blob/main/stroke.jpg" >
+<img align="center" alt="Stroke" width="500" src="https://github.com/sanketpatil51/Stroke-Prediction/blob/main/data.jpeg" >
 
 The stroke prediction dataset includes demographic and health-related features to assess the risk factors associated with stroke occurrence. Below is a brief description of each feature:
 ### id: 
