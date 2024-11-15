@@ -40,7 +40,7 @@ Target variable indicating whether the individual has experienced a stroke (0 = 
 # missing value tretment
 In the stroke dataset, there are missing values in the bmi column. Initially, I filled these missing values with the median. However, using the median altered the distribution of the data, so I opted to fill the missing values with randomly selected values from the existing bmi data. This method better preserves the original distribution, as shown in the figure.
 
-<img align="center" alt="Stroke" width="500" src="https://github.com/sanketpatil51/Stroke-Prediction/blob/main/stroke.jpg" >
+<img align="center" alt="Stroke" width="500" src="https://github.com/sanketpatil51/Stroke-Prediction/blob/main/missing.jpeg" >
 
 # trasformation
 In the stroke dataset, the avg_glucose_level column exhibited an imbalanced distribution. To address this, I applied the QuantileTransformer, which maps the data to a uniform or normal distribution. This transformation helps in reducing the skewness of the data while maintaining its relative order, improving its suitability for modeling.
