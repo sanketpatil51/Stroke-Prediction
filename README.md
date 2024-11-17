@@ -54,8 +54,6 @@ The stroke dataset is imbalanced, as shown in the figure below. This means that 
 
 # Model Building
 <img align="center" alt="Stroke" width="900" src="https://github.com/sanketpatil51/Stroke-Prediction/blob/main/matrix.png" >
-Among these, the Balanced Random Forest algorithm outperformed the others, especially in handling the class imbalance present in the dataset. This approach effectively improved prediction accuracy for the minority class while maintaining overall model performance.
-
-
+Among these models, Balanced Random Forest (Balanced RF) outperformed others in terms of both accuracy and recall, demonstrating its effectiveness in handling imbalanced datasets.
 
 
