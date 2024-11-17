@@ -53,7 +53,9 @@ The stroke dataset is imbalanced, as shown in the figure below. This means that 
 <img align="center" alt="Stroke" width="500" src="https://github.com/sanketpatil51/Stroke-Prediction/blob/main/Screenshot_15-11-2024_163541_localhost.jpeg" >
 
 # Model Building
-<img align="center" alt="Stroke" width="500" src="https://github.com/sanketpatil51/Stroke-Prediction/blob/main/matrix.png" >
+<img align="center" alt="Stroke" width="900" src="https://github.com/sanketpatil51/Stroke-Prediction/blob/main/matrix.png" >
+Among these, the Balanced Random Forest algorithm outperformed the others, especially in handling the class imbalance present in the dataset. This approach effectively improved prediction accuracy for the minority class while maintaining overall model performance.
+
 
 
 
