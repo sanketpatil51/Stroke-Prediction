@@ -56,6 +56,6 @@ The stroke dataset is imbalanced, as shown in the figure below. This means that 
 <img align="center" alt="Stroke" width="900" src="https://github.com/sanketpatil51/Stroke-Prediction/blob/main/matrix.png" >
 Among these models, Balanced Random Forest (Balanced RF) outperformed others in terms of both accuracy and recall, demonstrating its effectiveness in handling imbalanced datasets.
 
-# End 
+# End is bigining 
 
 
